@@ -1,3 +1,3 @@
 # RaceGame
 
-This game was made following a Udemy course on 2D game Development.
+Basic 2D unity game about drving around in a neighbourhood. Uses 2D colliders
